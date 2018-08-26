@@ -227,5 +227,6 @@ enter image description here
 总结
 本篇通过自己动手写爬虫爬取图片，并进行图片预处理，包括 Reshape、灰度、像素归一化等，用神经网络训练图片分类器，最后讲述了模型部署，介绍了 Python 的 2 个轻量级微服务框架 Bottle 和 Flask，通过 Flask 制作了一个简单的微服务预测接口，实现模型的预测和浏览器交互功能。但是问题远远没有结束，以上只是挖掘机的几种，如果把市场几十种挖掘机和不同型号的挖掘机图片分类，事情可能变得不一样了，这个后续希望大家继续思考。
 
-本文涉及源码下载地址：github
+本文涉及源码下载地址：[Github 0-1 图片分类](https://github.com/sujeek/images_wajueji_0_1_classify)
+
 
